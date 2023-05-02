@@ -5,6 +5,10 @@ const page = () => {
   return (
     <>
       <HeroSection />
+<<<<<<< HEAD
+=======
+ 
+>>>>>>> ebd40d59a7e2b1adb6b916858860e85199265188
       <ContactSection/>
     </>
   )
