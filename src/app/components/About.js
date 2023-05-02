@@ -22,13 +22,13 @@ const About = () => {
                 <div className={styles.container}>
                     <div className={styles.box}>
                         <h1 className={styles.boxHead}>secondary school </h1>
-                        <h1 className={styles.boxHead}>10 (SLC)</h1>
+                        <h1 className={styles.boxHead}>10 SLC</h1>
                         <p className={styles.boxpara}>Shree saraswati higher secondary school pipra, bhalohiya Rautahat, Nepal</p>
                         <h1 className={styles.boxHead}>2016</h1>
                     </div>
                     <div className={styles.box}>
                         <h1 className={styles.boxHead}>higher secondary school </h1>
-                        <h1 className={styles.boxHead}>+2 (commerce)</h1>
+                        <h1 className={styles.boxHead}>+2 commerce</h1>
                         <p className={styles.boxpara}>Shree gauri shankar yadav rautahat campus Gaur,Rautahat, Nepal</p>
                         <h1 className={styles.boxHead}>2018</h1>
                     </div>
