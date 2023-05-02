@@ -1,0 +1,44 @@
+.ContactSection{
+    width: 100vw;
+    padding: 2rem 3rem;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.left,
+.right{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: aquamarine;
+    padding: 2rem 2rem;
+    flex-wrap: wrap;
+}
+.right{
+    background: none;
+}
+.inputFiled,
+.btn{
+    width: 100%;
+    padding: 10px 16px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+}
+
+.btn{
+   background: rgb(179, 40, 40);
+   color: white;
+   border-radius: 20px;
+   text-transform: capitalize;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.btn:hover{
+    background: rgb(168, 92, 92);
+}
