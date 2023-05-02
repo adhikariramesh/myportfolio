@@ -3,7 +3,7 @@ import About from '../components/About'
 const AboutPage = () => {
   return (
     <>
-      {/* <About/> */}
+    about page
     </>
   )
 }
